@@ -22,8 +22,8 @@ Welcome to TimeCrafters, where time comes to life through our Analog Clock Proje
 
 ## Contributors
 
-- [Md Mohsin Haider]
-- [Mobassir Ahmed]
+- Md Mohsin Haider
+- Mobashir Ahmed
 - [Contributor 2]
 
 ## License
