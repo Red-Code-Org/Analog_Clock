@@ -23,7 +23,7 @@ Welcome to TimeCrafters, where time comes to life through our Analog Clock Proje
 ## Contributors
 
 - [Md Mohsin Haider]
-- [Contributor 1]
+- [Mobassir Ahmed]
 - [Contributor 2]
 
 ## License
